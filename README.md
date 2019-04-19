@@ -10,6 +10,9 @@ Get_Aws_Instance_Tags_To_Corresponding_Volumn_Tags.py：获取AWS所有实例的
 Get_Aws_Instance_Tags_To_Corresponding_Volumn_Tags2.py：获取AWS所有实例的Tags并打到对应的卷组上（规范版）
 Get_Aws_Cloudtrial.py：通过AWS API获取CloudTrail信息  
 Zabbix_Api_Login.py：通过zabbix API 登录  
+Aws_Volumn_Appoint_Create_Tags.py：通过AWS API给指定的Volumn打上指定的Tag  
+Get_Aws_Volumn_Id.py：根据AWS API获取所有的Volumn ID
+
 
 
 
