@@ -8,6 +8,7 @@ Get_All_Zabbix_Agent_IP.py：通过zabbix API获取所有zabbix-agent的IP
 Get_Aws_Instance_IP.py：根据AWS API获取所有的Instance IP 
 Get_Aws_Instance_Tags_To_Corresponding_Volumn_Tags.py：获取AWS所有实例的Tags并打到对应的卷组上  
 Get_Aws_Instance_Tags_To_Corresponding_Volumn_Tags2.py：获取AWS所有实例的Tags并打到对应的卷组上（规范版）
+Get_Aws_Cloudtrial.py：通过AWS API获取CloudTrail信息  
 
 
 
