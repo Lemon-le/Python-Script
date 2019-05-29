@@ -7,7 +7,7 @@ import json,urllib.request
 #Version ：V1.0
 
 #DingDing的access_token
-access_token = 'https://oapi.dingtalk.com/robot/send?access_token=7530e79f6c1cb90582c6ec140df60790a7595e677df7544c0786ae04822a0193'
+access_token = 'XXXXXXXXXXXXXXXXXXXXXXXX'
 
 
 def send_to_ding():
